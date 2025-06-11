@@ -1,4 +1,4 @@
-# NOTE
+# Introduction
 This repository includes code materials used in the study **'Inferring Spatially-varying Bending Stiffness of Biopolymers with Deep-learning Approach'**.
 
 # <**Code for deep-learning implementation**> 
